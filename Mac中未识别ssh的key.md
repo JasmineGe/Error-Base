@@ -36,7 +36,7 @@ chmod [对谁操作][操作符][赋予的权限]文件名
 * w(二进制010  十进制2)
 * x(二进制001  十进制1)
 
-$\color{#FF6347}{chmod可以用数字来表示权限}$
+<font color=#FF6347 size=3>chmod可以用数字来表示权限</font>
 
 例如：`chmod 400 id_rsa`中的400，分别表示User、Group及Other的权限
 
