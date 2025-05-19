@@ -5,3 +5,4 @@
     git push origin master
     git checkout -b dev
     git push origin dev
+    git branch
